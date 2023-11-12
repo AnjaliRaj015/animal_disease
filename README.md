@@ -8,7 +8,7 @@ The health of animals is vital, yet early detection of diseases in animals is of
 
 ## Solution
 
-Animal HealthGuard is not just a project; it's a commitment to ensuring the health and welfare of our animal companions. Leveraging cutting-edge technologies, we've developed a robust system for early disease detection, providing timely insights to veterinarians, caretakers and pet-parents to detect the problem at home itself.
+Animal HealthGuard is not just a project; it's a commitment to ensuring the health and welfare of our animal companions. Leveraging cutting-edge technologies, I've developed a robust system for early disease detection, providing timely insights to veterinarians, caretakers and pet-parents to detect the problem at home itself.
 
 ## Technologies Used
 
@@ -22,8 +22,6 @@ Animal HealthGuard is not just a project; it's a commitment to ensuring the heal
 ### Frontend 🌐
 - React.js: Creating an intuitive and user-friendly interface for veterinarians and caretakers to access and interpret health data.
 
-### Real-Time Monitoring ⏱️
-- MQTT Protocol: Enabling real-time communication for immediate alerts and updates on the health status of animals.
 
 ## Getting Started
 
